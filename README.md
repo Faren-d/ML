@@ -24,6 +24,32 @@ Unsupervised Learning
 
 ![supervised-learning-ad](https://github.com/user-attachments/assets/1ad26a9b-cafe-4865-83e0-08d3ef3901e1)
 
+Here are some common types of algorithms used in supervised learning:
+
+#### Regression Algorithms:
+
+- Linear Regression
+
+- Polynomial Regression
+
+- Ridge Regression
+
+- Lasso Regression
+
+#### Classification Algorithms:
+
+- Logistic Regression
+
+- Decision Trees
+
+- Random Forests
+
+- Support Vector Machines (SVM)
+
+- Naive Bayes
+
+- K-Nearest Neighbors (KNN)
+
 
 
 ## Unsupervised Learning
@@ -44,6 +70,24 @@ Unsupervised Learning
 - Unsupervised Learning is particularly useful when labeled data is scarce or expensive to obtain.
 
 ![unsupervised-learning-ad](https://github.com/user-attachments/assets/5349285c-9394-45b5-974a-8b2021fe209d)
+
+Here are common types of unsupervised learning algorithms:
+
+#### Clustering Algorithms:
+
+- K-means Clustering
+
+- Hierarchical Clustering
+
+- DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+●
+#### Dimensionality Reduction Algorithms:
+
+- Principal Component Analysis (PCA)
+
+- t-SNE (t-Distributed Stochastic Neighbor Embedding)
+
+- Autoencoders
 
 
   
@@ -76,6 +120,24 @@ Unsupervised Learning
 
 
 ![reinforcement-learning-ad](https://github.com/user-attachments/assets/41eeb50d-cbda-4879-9e0e-c6f064868523)
+
+Here are common types of reinforcement learning algorithms:
+
+#### Value-Based Methods:
+
+- Q-Learning
+
+- SARSA (State-Action-Reward-State-Action)
+
+- Deep Q-Networks (DQN)
+
+#### Policy-Based Methods:
+
+- Policy Gradient
+
+- REINFORCE
+
+#### Actor-Critic Methods
 
 These types of machine learning are not mutually exclusive and can sometimes be used in conjunction with one another to solve problems
 
