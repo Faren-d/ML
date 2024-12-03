@@ -1,8 +1,15 @@
 # 3 main Types of Machine Learning
 
+![types-of-ml](https://github.com/user-attachments/assets/e5feecce-9fd3-4b28-a535-094cf388de2d)
+
+
 ## Supervised Learning
 
 - In this type of machine learning, algorithms learn from labeled data, meaning that the data includes both input features and their corresponding output labels.
+
+
+
+![supervised-learning](https://github.com/user-attachments/assets/090ba3e6-50f3-4443-ba46-c9cf3ae04402)
 
 - The goal of the algorithm is to find a function that accurately maps inputs to the correct outputs, enabling it to make predictions on new data that the algorithm has not seen before.
 
@@ -15,9 +22,16 @@
 - Supervised Learning is well-suited for situations where labeled data is readily available.
 Unsupervised Learning
 
+![supervised-learning-ad](https://github.com/user-attachments/assets/1ad26a9b-cafe-4865-83e0-08d3ef3901e1)
+
+
+
 ## Unsupervised Learning
 
 - This involves training algorithms on unlabeled data, which means the data only includes input features without any corresponding output labels.
+
+![unsupervised-learning](https://github.com/user-attachments/assets/4a4cfa04-d374-4b9c-a04d-0e7e053bb417)
+
 
 - The goal of these algorithms is to uncover hidden patterns, structures, or relationships within the data.
 
@@ -29,10 +43,16 @@ Unsupervised Learning
 
 - Unsupervised Learning is particularly useful when labeled data is scarce or expensive to obtain.
 
+![unsupervised-learning-ad](https://github.com/user-attachments/assets/5349285c-9394-45b5-974a-8b2021fe209d)
+
+
   
 ## Reinforcement Learning
 
 - Reinforcement learning involves training an agent to interact with an environment.
+
+
+![reinforcement-learning](https://github.com/user-attachments/assets/17c8de2a-6472-42e4-bccd-96f63dd1929f)
 
 - The agent learns by taking actions within the environment and receiving feedback in the form of rewards or penalties.
 
@@ -54,4 +74,11 @@ Unsupervised Learning
 
 - Reinforcement Learning has the potential to lead to the discovery of novel and optimal strategies.
 
+
+![reinforcement-learning-ad](https://github.com/user-attachments/assets/41eeb50d-cbda-4879-9e0e-c6f064868523)
+
 These types of machine learning are not mutually exclusive and can sometimes be used in conjunction with one another to solve problems
+
+![types-of-learning-comparison](https://github.com/user-attachments/assets/514e7017-9955-45fc-bc21-43b533d43105)
+
+
