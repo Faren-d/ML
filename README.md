@@ -143,4 +143,8 @@ These types of machine learning are not mutually exclusive and can sometimes be 
 
 ![types-of-learning-comparison](https://github.com/user-attachments/assets/514e7017-9955-45fc-bc21-43b533d43105)
 
+# Applications of Machine Learning
+
+![ml-applications](https://github.com/user-attachments/assets/452dd257-7a09-489d-9230-0dcaeda3a810)
+
 
